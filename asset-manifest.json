@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aimonk/static/css/main.874b6a94.css",
+    "main.js": "/aimonk/static/js/main.0587e0ed.js",
+    "static/js/787.45288ce3.chunk.js": "/aimonk/static/js/787.45288ce3.chunk.js",
+    "index.html": "/aimonk/index.html",
+    "main.874b6a94.css.map": "/aimonk/static/css/main.874b6a94.css.map",
+    "main.0587e0ed.js.map": "/aimonk/static/js/main.0587e0ed.js.map",
+    "787.45288ce3.chunk.js.map": "/aimonk/static/js/787.45288ce3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.874b6a94.css",
+    "static/js/main.0587e0ed.js"
+  ]
+}
